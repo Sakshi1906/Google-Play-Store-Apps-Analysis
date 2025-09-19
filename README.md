@@ -6,7 +6,7 @@ Analyzed Google Play Store dataset to identify trends in app categories, ratings
 🛠 Tech Stack
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
-
+VS Code
 Jupyter Notebook
 
 📊 Key Insights
