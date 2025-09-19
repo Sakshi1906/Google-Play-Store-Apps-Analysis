@@ -1,4 +1,5 @@
 📱 Google Play Store Apps Analysis
+
 📌 Overview
 
 Analyzed Google Play Store dataset to identify trends in app categories, ratings, installs, and pricing. Cleaned raw data and performed exploratory data analysis (EDA) using Python.
